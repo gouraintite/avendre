@@ -368,7 +368,7 @@ export default function About() {
                                     </span>
                                     <h3>
                                         <a
-                                            href="#"
+                                            href="/detail"
                                             className="text-dark hover:text-primary mb-4 inline-block text-xl font-semibold sm:text-2xl lg:text-xl xl:text-2xl"
                                         >
                                             Meet AutoManage, the best AI management tools
@@ -394,7 +394,7 @@ export default function About() {
                                     </span>
                                     <h3>
                                         <a
-                                            href="#"
+                                            href="/detail"
                                             className="text-dark hover:text-primary mb-4 inline-block text-xl font-semibold sm:text-2xl lg:text-xl xl:text-2xl"
                                         >
                                             How to earn more money as a wellness coach
@@ -420,7 +420,7 @@ export default function About() {
                                     </span>
                                     <h3>
                                         <a
-                                            href="#"
+                                            href="/detail"
                                             className="text-dark hover:text-primary mb-4 inline-block text-xl font-semibold sm:text-2xl lg:text-xl xl:text-2xl"
                                         >
                                             The no-fuss guide to upselling and cross selling
