@@ -33,7 +33,7 @@ export default function Banner() {
                                         <li>
                                             <a
                                                 href="#"
-                                                className="text-body-color hover:text-primary inline-flex items-center justify-center py-4 md:px-6 px-4 text-center text-base font-normal sm:px-10 lg:px-8 xl:px-10"
+                                                className="text-body-color hover:text-primary inline-flex items-center justify-center py-4 md:px-6 px-1 text-center text-base font-normal sm:px-10 lg:px-8 xl:px-10"
                                             >
                                                 <span className="mr-2">
                                                     <svg
