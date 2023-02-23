@@ -103,7 +103,7 @@ export default function Footer() {
                         </div>
                         <div className="w-full px-4 sm:w-1/2 lg:w-3/12">
                             <div className="mb-10 w-full ml-12 text-[#ccc]">
-                                <h4 className=" mb-9 text-lg font-semibold">Follow Nous</h4>
+                                <h4 className=" mb-9 text-lg font-semibold">Suivez Nous</h4>
                                 <div className="mb-6 flex items-center">
                                     <a
                                         href="#"
