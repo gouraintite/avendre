@@ -77,9 +77,9 @@ export default function Banner() {
                                         <img
                                             src={Img}
                                             alt="hero"
-                                            className="max-w-full -mt-28 lg:ml-auto"
+                                            className="w-[30rem] -mt-48 lg:ml-auto"
                                         />
-                                        <span className="absolute -left-1 bottom-24 z-[-1]">
+                                        <span className="absolute left-12 bottom-32 z-[-1]">
                                             <svg
                                                 width="93"
                                                 height="93"

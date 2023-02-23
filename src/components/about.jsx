@@ -15,7 +15,7 @@ export default function About() {
                                         <img
                                             src={Main}
                                             alt="hero"
-                                            class=" w-[28rem] -mt-48"
+                                            class=" -mt-36"
                                         />
                                     </div>
                                 </div>
@@ -218,7 +218,7 @@ export default function About() {
                                         N'attend plus combi... vient te faire <br /> de l'argent dans le easy
                                     </div>
                                 </div>
-                                <div className='hidden lg:block absolute left-[45%] mt-40'>
+                                <div className='hidden lg:block absolute left-[42%] mt-60'>
                                     <img src={Detail} alt="" />
                                 </div>
                                 <div className="w-full px-4 lg:w-1/2">
