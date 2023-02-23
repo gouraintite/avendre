@@ -27,7 +27,7 @@ export default function Banner() {
                                                 href="#"
                                                 className="bg-primary inline-flex items-center justify-center rounded-lg py-4 px-6 text-center text-base font-normal text-white hover:bg-opacity-90 sm:px-10 lg:px-8 xl:px-10"
                                             >
-                                                Explorer here
+                                                Explorer
                                             </a>
                                         </li>
                                         <li>
